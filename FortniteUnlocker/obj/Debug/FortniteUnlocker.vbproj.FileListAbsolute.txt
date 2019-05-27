@@ -1,0 +1,14 @@
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\bin\Debug\FortniteUnlocker.exe.config
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\bin\Debug\FortniteUnlocker.exe
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\bin\Debug\FortniteUnlocker.pdb
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\bin\Debug\FortniteUnlocker.xml
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.vbprojAssemblyReference.cache
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.Form1.resources
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.LoginForm.resources
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.Resources.resources
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.Patcher.resources
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.vbproj.GenerateResource.cache
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.vbproj.CoreCompileInputs.cache
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.exe
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.xml
+C:\Users\jtren\git\FortniteUnlocker\FortniteUnlocker\obj\Debug\FortniteUnlocker.pdb
